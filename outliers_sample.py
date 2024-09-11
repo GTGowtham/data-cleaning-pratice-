@@ -18,3 +18,5 @@ outliers = data[(data < lower_bound) | (data > upper_bound)]
 print(f"Lower Bound: {lower_bound}")
 print(f"Upper Bound: {upper_bound}")
 print(f"Outliers: {outliers.tolist()}")
+
+#just check for modify
